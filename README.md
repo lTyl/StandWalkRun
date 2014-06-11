@@ -8,7 +8,8 @@
 + Current Version: V2.50 Final
 + Release Date (RMVX): Jan 26, 2008
 + Release Date: (RMXP): July 17, 2011
-+ Demo: [4Shared Demo Link](http://www.4shared.com/file/7puHxTuv/StandWalkRun.html)
++ Demo (RMXP): [4Shared Demo Link](http://www.4shared.com/file/7puHxTuv/StandWalkRun.html)
++ Demo (RMVX): [4Shared Demo Link](http://www.4shared.com/zip/L_ZUrf4t/standwalkrun.html?)
 
 # What is it? #
 
